@@ -1,5 +1,5 @@
 project:
-  alias: chef-semverse
+  alias: chef-semverse-feat-publish_gem
 
 # The name of the product keys for this product (from mixlib-install)
 product_key:
