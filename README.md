@@ -36,5 +36,5 @@ TODO: Write usage instructions here
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-[gem]: https://rubygems.org/gems/semverse
 [travis]: http://travis-ci.org/berkshelf/semverse
+[gem]: https://rubygems.org/gems/semverse
