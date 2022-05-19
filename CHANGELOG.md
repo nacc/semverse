@@ -1,23 +1,20 @@
-<!-- latest_release 4.1.13 -->
+<!-- latest_release -->
+<!-- latest_release -->
+
+<!-- release_rollup -->
+<!-- release_rollup -->
+
+<!-- latest_stable_release -->
 ## [v4.1.13](https://github.com/chef/semverse/tree/v4.1.13) (2022-05-19)
 
 #### Merged Pull Requests
 - fix version for Artifactory [#19](https://github.com/chef/semverse/pull/19) ([sanjain-progress](https://github.com/sanjain-progress))
-<!-- latest_release -->
-
-<!-- release_rollup since=3.1.0 -->
-### Changes not yet released to rubygems.org
-
-#### Merged Pull Requests
-- fix version for Artifactory [#19](https://github.com/chef/semverse/pull/19) ([sanjain-progress](https://github.com/sanjain-progress)) <!-- 4.1.13 -->
-<!-- release_rollup -->
-
 <!-- latest_stable_release -->
+
 ## [v4.1.12](https://github.com/chef/semverse/tree/v4.1.12) (2022-05-19)
 
 #### Merged Pull Requests
 - Publish [#15](https://github.com/chef/semverse/pull/15) ([sanjain-progress](https://github.com/sanjain-progress))
-<!-- latest_stable_release -->
 
 ## [v4.1.11](https://github.com/chef/semverse/tree/v4.1.11) (2022-05-19)
 
