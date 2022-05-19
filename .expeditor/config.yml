@@ -1,9 +1,5 @@
-project:
-  alias: chef-semverse
-
-# The name of the product keys for this product (from mixlib-install)
-product_key:
-  - chef-semverse
+# Documentation available at https://expeditor.chef.io/docs/getting-started/
+---
 
 # Slack channel in Chef Software slack to send notifications about build failures, etc
 slack:
@@ -26,6 +22,8 @@ github:
     - "Expeditor: Bump Version Major"
 
 release_branches:
+  - publish:
+      version_constraint: 5*
   - main:
       version_constraint: 4*
   - feat/publish_gem:
