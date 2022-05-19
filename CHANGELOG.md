@@ -14,8 +14,9 @@
 
 <!-- latest_stable_release -->
 ## [v4.1.11](https://github.com/chef/semverse/tree/v4.1.11) (2022-05-19)
+<!-- latest_stable_release -->
+
+## [v4.1.11](https://github.com/chef/semverse/tree/v4.1.11) (2022-05-19)
 
 #### Merged Pull Requests
 - Remove buildkite test cases [#11](https://github.com/chef/semverse/pull/11) ([sanjain007](https://github.com/sanjain007))
-<!-- latest_stable_release -->
-
