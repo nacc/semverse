@@ -3,11 +3,11 @@
 
 # Slack channel in Chef Software slack to send notifications about build failures, etc
 slack:
-  notify_channel: chef-semverse-notify
+  notify_channel: chef-ws-notify
 
 # This publish is triggered by the `built_in:publish_rubygems` artifact_action.
 rubygems:
-  - chef-testing
+  - semverse
 
 github:
   # This deletes the GitHub PR branch after successfully merged into the release branch
@@ -22,12 +22,10 @@ github:
     - "Expeditor: Bump Version Major"
 
 release_branches:
-  - publish:
-      version_constraint: 5*
   - main:
-      version_constraint: 4*
-  - feat/publish_gem:
       version_constraint: 3*
+  - publish_gem:
+      version_constraint: 4*
 
 changelog:
   rollup_header: Changes not yet released to rubygems.org
