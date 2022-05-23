@@ -1,14 +1,15 @@
-<!-- latest_release 3.0.0 -->
-## [v3.0.0](https://github.com/chef/semverse/tree/v3.0.0) (2022-05-23)
+<!-- latest_release 3.0.1 -->
+## [v3.0.1](https://github.com/chef/semverse/tree/v3.0.1) (2022-05-23)
 
 #### Merged Pull Requests
-- expeditor config to publish gem [#20](https://github.com/chef/semverse/pull/20) ([sanjain-progress](https://github.com/sanjain-progress))
+- Update version as v3.0.0 (already exists) [#21](https://github.com/chef/semverse/pull/21) ([sanjain-progress](https://github.com/sanjain-progress))
 <!-- latest_release -->
 
 <!-- release_rollup since=3.0.0 -->
 ### Changes not yet released to rubygems.org
 
 #### Merged Pull Requests
+- Update version as v3.0.0 (already exists) [#21](https://github.com/chef/semverse/pull/21) ([sanjain-progress](https://github.com/sanjain-progress)) <!-- 3.0.1 -->
 - expeditor config to publish gem [#20](https://github.com/chef/semverse/pull/20) ([sanjain-progress](https://github.com/sanjain-progress)) <!-- 3.0.0 -->
 <!-- release_rollup -->
 
